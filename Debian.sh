@@ -10,7 +10,7 @@ texlive-binaries texlive-extra-utils texlive-font-utils texlive-fonts-extra-link
 texlive-generic-recommended texlive-humanities texlive-lang-english texlive-lang-spanish texlive-latex-base texlive-latex-extra texlive-latex-recommended
 texlive-metapost texlive-pictures texlive-plain-generic texlive-pstricks texlive-publishers icc-profiles tipa ascii jupyter-client jupyter-console
 jupyter-core jupyter-nbconvert jupyter-nbformat meld git-all markdown flatpak dbus-user-session light-locker lightdm packagekit packagekit-tools rtkit
-synaptic task-xfce-desktop plank blueman bluez-cups bluez-obexd deepin-picker font-manager;
+synaptic task-xfce-desktop plank blueman bluez-cups bluez-obexd deepin-picker font-manager npm;
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo &&
 flatpak install flathub com.valvesoftware.Steam com.spotify.Client com.visualstudio.code com.skype.Client org.eclipse.Java org.mozilla.firefox -y;
