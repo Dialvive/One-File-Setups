@@ -9,7 +9,7 @@ hlint maven openjdk-11-jdk openjdk-11-jre openjdk-11-source openjfx jupyter rust
 texlive-binaries texlive-extra-utils texlive-font-utils texlive-fonts-extra-links texlive-formats-extra texlive-games texlive-generic-extra
 texlive-generic-recommended texlive-humanities texlive-lang-english texlive-lang-spanish texlive-latex-base texlive-latex-extra texlive-latex-recommended
 texlive-metapost texlive-pictures texlive-plain-generic texlive-pstricks texlive-publishers icc-profiles tipa ascii jupyter-client jupyter-console
-jupyter-core jupyter-nbconvert gnome-tweaks ufw jupyter-nbformat meld git-all markdown golang synaptic plank blueman bluez-cups bluez-obexd deepin-picker font-manager npm;
+jupyter-core jupyter-nbconvert gnome-tweaks ufw jupyter-nbformat meld git-all openssh markdown golang synaptic plank blueman bluez-cups bluez-obexd deepin-picker font-manager npm;
 
 sudo apt install snapd;
 sudo snap install slack --classic;
